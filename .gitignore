@@ -43,3 +43,9 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Optional Flutter desktop platform files (generated locally)
+/windows/
+/macos/
+/linux/runner/
+/linux/flutter/generated_plugins.cmake
