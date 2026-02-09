@@ -28,6 +28,7 @@ DormDash is a campus-only delivery app that helps students order from on-campus 
 **Notes**
 - Payments are shown as demo flows for testing.
 - Features may vary by campus and vendor availability.
+- Desktop folders such as `windows/`, `macos/`, and extra Linux generated files can appear during local Flutter setup.
 
 **Screenshots**
 1. Splash Screen: App launch branding and loading state.
