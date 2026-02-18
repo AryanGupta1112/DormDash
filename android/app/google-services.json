@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "33382936467",
+    "project_id": "campusdelivery",
+    "storage_bucket": "campusdelivery.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33382936467:android:8f6eda23ece7da4a024266",
+        "android_client_info": {
+          "package_name": "com.campus.bot.campus_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33382936467-158nrtnni7v6nm3tqknfjoo8o7asqd20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.campus.bot.campus_delivery",
+            "certificate_hash": "0b402dc16310eb477e5524d673a4220169254be6"
+          }
+        },
+        {
+          "client_id": "33382936467-us97abvideb12n2a3edd43fi3k4mvl8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.campus.bot.campus_delivery",
+            "certificate_hash": "85ce2d2911594199ebcb8c9b2c49bb6358e6e799"
+          }
+        },
+        {
+          "client_id": "33382936467-v2tdb41r4oflp8b8rpqmq1vcjj73sg8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBruNWmDp-64wCnP0tNnBy-zCgg-4n2Mwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33382936467-v2tdb41r4oflp8b8rpqmq1vcjj73sg8h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "33382936467-d3985t4j33oavt4r09mc7nrn16kejicr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.campus.bot.campusDelivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
